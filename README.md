@@ -80,10 +80,12 @@ r-value: -0.8099936377599409    p-value: 2.4371772271053096e-22
 
 https://www.dropbox.com/sh/z98ulxf2m9khuku/AAC7XHnB_WOKv-ca9jviqOS6a?dl=0
 
-
-#### 05 - Agustin and Billy - General Trend vs Specific Areas
+#### 04 - Agustin - Correlation Coefficient
 ![Agustin](images/06-01-agustin-scatter.png)
+![Agustin1](images/06-02-agustin-data.png)
+![Agustin2](images/06-03-agustin-data1.png)
 
+#### 05 - Billy - General Trend vs Specific Areas
 Let's take a look at the data. 
 Austin as a whole (including all zip code) shows a slightly uptick of diversity index:
 ![Billy Data1](images/05-01-billy-all-data.png)
