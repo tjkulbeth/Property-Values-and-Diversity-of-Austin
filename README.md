@@ -85,6 +85,15 @@ Austin as a whole (including all zip code) shows a slightly uptick of diversity 
 The graph confirms that:
 ![Billy Home Value vs. Diversity All](images/05-01-billy-value-diversity-all.png)
 
+What if we look closer - just the area that immediately east of downtown by I-35?
+I included 7 zip codes. Here is the map showing the zip codes selected:
+![Billy Zip Map](images/zip-map.png)
+
+Now, let's take a look at the data set:
+![Billy East Central Data Set](images/05-02-billy-east-central-data.png)
+
+Interesting, isn't it? These area shown quite a bit of movement among different ethic groups:
+![Billy East Central Graph](images/05-02-billy-east-central-only.png)
 
 
 #### 06 - Agustin and Billy - School Ratings and Home Values
