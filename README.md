@@ -15,9 +15,8 @@
 This project will examine the relationship between property values and racial demographics in the zip codes areas of Austin, TX from 2011-2017.
 
 ### Hypothesis:
-####  H-Null: If property values rise within Austin (by zip code area), then there will be no changes of the diversity index*.
-#### H-Alt: If property values rise within Austin (by zip code area), then the diversity index* will show significant negative changes.
-#### The 'Diversity Index' is a value between 0 and 1 which represents the probability of two people being of a different race if randomly picked from the same sample.
+##### * H-Null: If property values rise within Austin (by zip code area), then there will be no changes of the diversity index*.
+##### * H-Alt: If property values rise within Austin (by zip code area), then the diversity index* will show significant negative changes.
 
 ### Research Questions to Answer:
 1. Does the diversity negatively impacted by the raise of home value in Austin?
@@ -31,15 +30,15 @@ This project will examine the relationship between property values and racial de
 * GreatSchools API (https://www.greatschools.org/api/docs/technical-overview/)
 
 #### How are data described:
-1 - Diversity Index
-2 - Period
-3 - Home Value
-4 - Zip data (for geo location and map)
+1. Diversity Index - The 'Diversity Index' is a value between 0 and 1 which represents the probability of two people being of a different race if randomly picked from the same sample.
+2. Period
+3. Home Value
+4. Zip data (for geo location and map)
 
 ### Tools & Techniques:
-1 - Pandas DataFrame for ETL
-2 - Matplotlib, Follium, Google Map API for Visualization
-3 - Python LXML/XML parsing for GreatSchools.org API
+1. Pandas DataFrame for ETL
+2. Matplotlib, Follium, Google Map API for Visualization
+3. Python LXML/XML parsing for GreatSchools.org API
 
 ### Our Findings
 #### 01 - Godwin - Data Merge Process - Scatter Plot
