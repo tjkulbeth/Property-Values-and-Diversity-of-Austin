@@ -113,6 +113,10 @@ LinregressResult(slope=-3720.172417840378, intercept=342491.2738648559, rvalue=-
 3. When look at different areas such as certain zip codes, we see a much more pronounced pattern of home value increase cause shift of diversity to reduce. 
 4. More specifically, certain central east Austin communities see a major change in ethic and racial composition change.
 
+### Limitations
+1. Data source
+2. Further discussions
+
 ### Questions?
 ![Questions](images/why.gif)
 
