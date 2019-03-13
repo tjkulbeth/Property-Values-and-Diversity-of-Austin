@@ -42,7 +42,7 @@ This project will examine the relationship between property values and racial de
 ### Our Findings
 #### 01 - Godwin - Data Merge Process - Scatter Plot
 
-Merging the data in one uniform dataset \
+Merging the data in one uniform dataset
 
 Scatter Plot showing weak correlation \
 ![Scatter](images/01-01-godwin-scatter.png)
