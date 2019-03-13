@@ -50,8 +50,6 @@ This project will examine the relationship between property values and racial de
 ![boxplot](images/01-02-godwin-boxplot.png)
 
 #### 02 - Eric - Regression Analysis
-![Eric Scatter](images/02-01-eric-value-diversity-scatter.png)
-
 ![Eric Urban Line Chart](images/02-02-eric-urban-line.png)
 
 ![Eric Suburban Line Chart](images/02-03-eric-suburban-line.png)
@@ -80,7 +78,7 @@ r-value: -0.8099936377599409    p-value: 2.4371772271053096e-22
 ![Trevor Zip Map Animations](images/04-02-trevor-property-index.gif)
 
 #### 05 - Agustin and Billy - General Trend vs Specific Areas
-![Billy Home Value vs. Diversity All](images/05-Billy-Value-Diversity-All.png)
+![Billy Home Value vs. Diversity All](images/05-01-Billy-Value-Diversity-All.png)
 
 
 #### 06 - Agustin and Billy - School Ratings and Home Values
