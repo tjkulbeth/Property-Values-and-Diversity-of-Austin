@@ -1,8 +1,9 @@
-![The Team](images/the-team.gif)
+![The Big Hero 6](images/bighero6_smallbanner-mod.jpg)
 # Property Values and Diversity of Austin
+
 ## Our Team:
+![The Team](images/the-team.gif)
 Eric Tonian, Godwin Assiogbon, Aydin Yildirim, Trevor Kulbeth, Agustin Gonzalez, and Billy Wenbin Zhao
-![bighero6_smallbanner-mod](bighero6_smallbanner-mod.jpg)
 
 ### Project Description:
 This project will examine the relationship between property values and racial demographics in the zip codes areas of Austin, TX from 2011-2017.
