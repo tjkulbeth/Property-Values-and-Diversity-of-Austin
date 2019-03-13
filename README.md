@@ -83,7 +83,7 @@ https://www.dropbox.com/sh/z98ulxf2m9khuku/AAC7XHnB_WOKv-ca9jviqOS6a?dl=0
 #### 04 - Agustin - Correlation Coefficient
 ![Agustin](images/06-01-agustin-scatter.png)
 ![Agustin1](images/06-02-agustin-data.png)
-![Agustin2](images/06-03-agustin-data1.png)
+![Agustin2](images/06-03-agustin-data2.png)
 
 #### 05 - Billy - General Trend vs Specific Areas
 Let's take a look at the data. 
