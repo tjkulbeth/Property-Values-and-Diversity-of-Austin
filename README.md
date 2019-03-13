@@ -22,7 +22,6 @@ This project will examine the relationship between property values and racial de
 1. Does the diversity negatively impacted by the raise of home value in Austin?
 2. What is Austin's geographical layout like in relation to home value and diversity?
 3. Is there any specific locations that diversity and home value show strong correlations?
-4. (bonus) Is school rating a good predictor of home value?
 
 ### Data Sources
 * Zillow Home Value Index (ZHVI) for All Homes - Time Series, 1996-2018 (https://www.zillow.com/research/data/)
@@ -105,11 +104,15 @@ The graph and T test will show much more distinctive pattern than Austin in gern
 ##### Regression Analysis:
 LinregressResult(slope=-3720.172417840378, intercept=342491.2738648559, rvalue=-0.9688170714695908, pvalue=0.0003243039756793674, stderr=425.4978954053012)
 
-#### 06 - Agustin and Billy - School Ratings and Home Values
-
-
 ### Conclusion
-
+1. Austin as a whole, we do see a weak correlation between raising property values and falling diversity rates
+2. Austin's wealth (home value) tend to concentrated to the west while eastern areas of Austin tend to be more diverse
+3. When look at different areas such as certain zip codes, we see a much more pronounced pattern of home value increase cause shift of diversity to reduce. 
+4. More specifically, certain central east Austin communities see a major change in ethic and racial composition change.
 
 ### Questions?
+[!Questions](images/why.gif)
+
+
+## Thank you!
 ![Thank you](images/bmax-bye.gif)
