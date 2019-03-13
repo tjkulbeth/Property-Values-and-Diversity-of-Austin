@@ -72,6 +72,7 @@ r-value: -0.8099936377599409    p-value: 2.4371772271053096e-22
 
 
 #### 03 - Aydin - Google Heat Map
+For the heat map, I used the merged data from Zillow and Census .I filtered merged data by 2017 to understand how diverse is Austin and surrounding areas.I added latitude and longitude to my data chart as well to use heatmap. In short, Round Rock, Pflugerville, Leander, Buda, Mountain City, San Marcos and part of the Cedar Park have diverse population compare to rest of the Austin and surrounding areas.
 ![Aydin Heatmap](images/03-01-aydin-heatmap.png)
 
 #### 04 - Trevor - Zip Code Color Map
