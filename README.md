@@ -4,7 +4,12 @@
 
 ## Our Team:
 ![The Team](images/the-team.gif)
-Eric Tonian, Godwin Assiogbon, Aydin Yildirim, Trevor Kulbeth, Agustin Gonzalez, and Billy Wenbin Zhao
+* Eric Tonian
+* Godwin Assiogbon
+* Aydin Yildirim
+* Trevor Kulbeth
+* Agustin Gonzalez
+* Wenbin Zhao "Billy"
 
 ### Project Description:
 This project will examine the relationship between property values and racial demographics in the zip codes areas of Austin, TX from 2011-2017.
