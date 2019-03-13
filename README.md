@@ -101,7 +101,7 @@ Let's take a look at the data first: \
 ![Billy 78722 data](images/05-03-billy-78722-data.png)
 
 The graph and T test will show much more distinctive pattern than Austin in gernal:\
-![Billy 78722 only](images/05-03-billy-78722-graph)
+![Billy 78722 only](images/05-03-billy-78722-graph.png)
 
 ##### Regression Analysis:
 LinregressResult(slope=-3720.172417840378, intercept=342491.2738648559, rvalue=-0.9688170714695908, pvalue=0.0003243039756793674, stderr=425.4978954053012)
