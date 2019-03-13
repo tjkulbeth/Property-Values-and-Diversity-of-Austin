@@ -1,6 +1,7 @@
 ![The Big Hero 6](images/banner.jpg)
 
-# Property Values and Diversity of Austin
+# Analysis of Property Values and Diversity in Austin
+### UTA Data Bootcamp Project 1, Group 6
 
 ## Our Team:
 ![The Team](images/the-team.gif)
@@ -71,15 +72,21 @@ r-value: -0.8099936377599409    p-value: 2.4371772271053096e-22
 
 
 #### 03 - Aydin - Google Heat Map
+For the heat map, I used the merged data from Zillow and Census .I filtered merged data by 2017 to understand how diverse is Austin and surrounding areas.I added latitude and longitude to my data chart as well to use heatmap. In short, Round Rock, Pflugerville, Leander, Buda, Mountain City, San Marcos and part of the Cedar Park have diverse population compare to rest of the Austin and surrounding areas.
 ![Aydin Heatmap](images/03-01-aydin-heatmap.png)
 
 #### 04 - Trevor - Zip Code Color Map
 ![Trevor Zip Map Animations](images/04-01-trevor-diversity-index.gif)
 ![Trevor Zip Map Animations](images/04-02-trevor-property-index.gif)
 
-#### 05 - Agustin and Billy - General Trend vs Specific Areas
-![Agustin](images/06-01-agustin-scatter.png)
+https://www.dropbox.com/sh/z98ulxf2m9khuku/AAC7XHnB_WOKv-ca9jviqOS6a?dl=0
 
+#### 04 - Agustin - Correlation Coefficient
+![Agustin](images/06-01-agustin-scatter.png)
+![Agustin1](images/06-02-agustin-data.png)
+![Agustin2](images/06-03-agustin-data2.png)
+
+#### 05 - Billy - General Trend vs Specific Areas
 Let's take a look at the data. 
 Austin as a whole (including all zip code) shows a slightly uptick of diversity index:
 ![Billy Data1](images/05-01-billy-all-data.png)
