@@ -105,6 +105,9 @@ Let's take a look at the data first: \
 The graph and T test will show much more distinctive pattern than Austin in gernal:
 ![Billy 78722 graph](images/05-03-billy-78722.png)
 
+##### Regression Analysis:
+LinregressResult(slope=-3720.172417840378, intercept=342491.2738648559, rvalue=-0.9688170714695908, pvalue=0.0003243039756793674, stderr=425.4978954053012)
+
 #### 06 - Agustin and Billy - School Ratings and Home Values
 
 
