@@ -111,7 +111,7 @@ LinregressResult(slope=-3720.172417840378, intercept=342491.2738648559, rvalue=-
 4. More specifically, certain central east Austin communities see a major change in ethic and racial composition change.
 
 ### Questions?
-[!Questions](images/why.gif)
+![Questions](images/why.gif)
 
 
 ## Thank you!
