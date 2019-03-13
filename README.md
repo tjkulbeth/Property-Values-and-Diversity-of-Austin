@@ -42,11 +42,12 @@ This project will examine the relationship between property values and racial de
 ### Our Findings
 #### 01 - Godwin - Data Merge Process - Scatter Plot
 
-1. Merging the data in one uniform dataset
-2. Scatter Plot showing weak correlation
+Merging the data in one uniform dataset \
+
+Scatter Plot showing weak correlation \
 ![Scatter](images/01-01-godwin-scatter.png)
 
-3. Since the p-value indicate that the p-value is less than .05, it rejects the null hypothesis and support our hypothesis that there is a big correlation between property value and diversity. I took it further and went into how it affects different city types and from the looks of it, it seems like rural areas takes the most hit when it comes to how diversity index affects the property value but overall, it indicates that as diversity index increases, property value across all city types decreases.
+Since the p-value indicate that the p-value is less than .05, it rejects the null hypothesis and support our hypothesis that there is a big correlation between property value and diversity. I took it further and went into how it affects different city types and from the looks of it, it seems like rural areas takes the most hit when it comes to how diversity index affects the property value but overall, it indicates that as diversity index increases, property value across all city types decreases.\
 ![boxplot](images/01-02-godwin-boxplot.png)
 
 #### 02 - Eric - Regression Analysis
