@@ -76,7 +76,7 @@ r-value: -0.8099936377599409    p-value: 2.4371772271053096e-22
 ![Aydin Heatmap](images/03-01-aydin-heatmap.png)
 
 #### 04 - Trevor - Zip Code Color Map
-![Trevor Zip Map Animations](images/04-02-trevor-diversity-index.gif)
+![Trevor Zip Map Animations](images/04-01-trevor-diversity-index.gif)
 ![Trevor Zip Map Animations](images/04-02-trevor-property-index.gif)
 
 #### 05 - Agustin and Billy - General Trend vs Specific Areas
