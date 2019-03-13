@@ -95,6 +95,15 @@ Now, let's take a look at the data set:
 Interesting, isn't it? These area shown quite a bit of movement among different ethic groups:
 ![Billy East Central Graph](images/05-02-billy-east-central-only.png)
 
+Now, let's look further in granuality. Just one zip code: 78722
+What about 78722?
+![Billy 78702](images/05-03-billy-78722-only.png)
+
+Let's take a look at the data first:
+![Billy 78722 data](images/05-03-billy-78722-data.png)
+
+The graph and T test will show much more distinctive pattern than Austin in gernal:
+![Billy 78722 graph](images/05-03-billy-78722-graph.png)
 
 #### 06 - Agustin and Billy - School Ratings and Home Values
 
