@@ -15,11 +15,11 @@
 This project will examine the relationship between property values and racial demographics in the zip codes areas of Austin, TX from 2011-2017.
 
 ### Hypothesis:
-H-Null: If property values rise within Austin (by zip code area), then there will be no changes of the diversity index*.
+* H-Null: If property values rise within Austin (by zip code area), then there will be no changes of the diversity index*.
 
-H-Alt: If property values rise within Austin (by zip code area), then the diversity index* will show significant negative changes.
+* H-Alt: If property values rise within Austin (by zip code area), then the diversity index* will show significant negative changes.
 
-*The 'Diversity Index' is a value between 0 and 1 which represents the probability of two people being of a different race if randomly picked from the same sample.
+* The 'Diversity Index' is a value between 0 and 1 which represents the probability of two people being of a different race if randomly picked from the same sample.
 
 ### Research Questions to Answer:
 1. Does the diversity negatively impacted by the raise of home value in Austin?
