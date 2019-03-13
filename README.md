@@ -1,4 +1,5 @@
-![The Big Hero 6](images/bighero6_smallbanner-mod.jpg)
+![The Big Hero 6](images/banner.jpg)
+
 # Property Values and Diversity of Austin
 
 ## Our Team:
