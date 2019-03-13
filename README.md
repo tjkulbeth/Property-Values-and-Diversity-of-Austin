@@ -77,6 +77,8 @@ r-value: -0.8099936377599409    p-value: 2.4371772271053096e-22
 ![Trevor Zip Map Animations](images/04-02-trevor-property-index.gif)
 
 #### 05 - Agustin and Billy - General Trend vs Specific Areas
+![Agustin](images/06-01-agustin-scatter.png)
+
 Let's take a look at the data. 
 Austin as a whole (including all zip code) shows a slightly uptick of diversity index:
 ![Billy Data1](images/05-01-billy-all-data.png)
